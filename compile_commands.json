@@ -1,0 +1,30 @@
+[
+ {
+  "directory": "/home/mb/ws/fiverr/hichamkhadda/zipper",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-std=gnu17",
+   "-g",
+   "-c",
+   "-o",
+   "obj/main.o",
+   "src/main.c"
+  ],
+  "file": "src/main.c"
+ },
+ {
+  "directory": "/home/mb/ws/fiverr/hichamkhadda/zipper",
+  "arguments": [
+   "gcc",
+   "-Wall",
+   "-std=gnu17",
+   "-g",
+   "-c",
+   "-o",
+   "obj/ziply.o",
+   "src/ziply.c"
+  ],
+  "file": "src/ziply.c"
+ }
+]
